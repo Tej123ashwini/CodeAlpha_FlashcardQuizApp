@@ -63,6 +63,14 @@ flashcard-quiz-app/
 
 ---
 
+## Technologies Used
+
+- React Native
+- Expo
+- JavaScript
+- AsyncStorage
+  
+
 ## 🚀 How to Run the App
 
 ### Option A: Using the One-Click Batch File (Windows)
@@ -97,24 +105,3 @@ Double-click `start.bat` in the project directory.
 
 ---
 
-## 📋 CodeAlpha Task 1 Requirements Checklist
-
-| Requirement | Description | Status |
-|---|---|---|
-| **Mobile App (Not Web)** | Built using React Native & Expo for Android Expo Go | ✅ Completed |
-| **Clean Project Structure** | `App.js`, `components/Flashcard.js`, `assets/`, `package.json` | ✅ Completed |
-| **Card Front / Back** | Shows Question on front, Answer revealed on back | ✅ Completed |
-| **Show/Hide Answer** | Prominent button toggling between "Show Answer" and "Hide Answer" | ✅ Completed |
-| **Navigation** | "Previous" & "Next" buttons with boundary disabling | ✅ Completed |
-| **Card Counter** | Displays "Card X of Y" counter | ✅ Completed |
-| **State Reset on Nav** | Answer visibility automatically resets on card switch | ✅ Completed |
-| **10 Default Cards** | Java, Array, Linked List, OOP, Inheritance, Database, SQL, API, Git, Algorithm | ✅ Completed |
-| **Add Flashcard** | Modal with Question & Answer text inputs and validation | ✅ Completed |
-| **Edit Flashcard** | Edit current card with pre-filled inputs and validation | ✅ Completed |
-| **Delete Flashcard** | Delete current card with confirmation dialog (`Cancel` / `Delete`) | ✅ Completed |
-| **Zero-Card Handling** | Friendly empty-state UI with Add & Restore options | ✅ Completed |
-| **AsyncStorage** | Local persistence across app restarts | ✅ Completed |
-| **UI Design & Spacing** | Professional mobile styling, rounded cards, responsive layout | ✅ Completed |
-| **Accessibility & Usability** | Large touch targets (>=44dp), clean contrast, keyboard avoidance | ✅ Completed |
-| **Error Handling** | Validates empty inputs, handles storage errors, never crashes | ✅ Completed |
-| **No Backend Required** | 100% client-side mobile app without unnecessary databases/APIs | ✅ Completed |
